@@ -1,0 +1,7 @@
+﻿  Lab4SPV2.1.cpp
+c:\users\mega-pc2\source\repos\lab4spv2.1\lab4spv2.1\lab4spv2.1.cpp(30): warning C4838: преобразование из "float" в "LONG" требует сужающего преобразования
+c:\users\mega-pc2\source\repos\lab4spv2.1\lab4spv2.1\lab4spv2.1.cpp(30): warning C4244: инициализация: преобразование "float" в "LONG", возможна потеря данных
+c:\users\mega-pc2\source\repos\lab4spv2.1\lab4spv2.1\lab4spv2.1.cpp(81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mega-pc2\source\repos\lab4spv2.1\lab4spv2.1\lab4spv2.1.cpp(82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\mega-pc2\source\repos\lab4spv2.1\lab4spv2.1\lab4spv2.1.cpp(83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Lab4SPV2.1.vcxproj -> C:\Users\MEGA-PC2\source\repos\Lab4SPV2.1\Debug\Lab4SPV2.1.exe
